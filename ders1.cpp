@@ -40,5 +40,4 @@ int main() {
 	printf("Suan %d yilindayiz.",yil);
 	
 	return 0;
-	
 }
